@@ -54,3 +54,7 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 自动任务触发
+
+更新cookies记录：
+2020年10月05日
+2020年10月30日
